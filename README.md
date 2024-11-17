@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Soy Gerardo Arredondo Granados
 
-<!--
-**GerardoArredondo/GerardoArredondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudio Ingeniería en Computación en la UNAM. 
+---
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías y Herramientas que sé usar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!Lenguajes de programación: SQL, Python, C, C++ (https://img.shields.io/badge/-Lenguaje1-XXX?style=flat&logo=logo1&logoColor=white)
+
+
+
+## 📫 Cómo contactarme
+
+- **LinkedIn:** (linkedin.com/in/gerardo-arredondo-66bb702b5)
+- **Twitter:** (https://x.com/Gerotota)
+
+---
