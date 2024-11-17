@@ -5,7 +5,7 @@ Actualmente estudio Ingeniería en Computación en la UNAM.
 
 ## 🔧 Tecnologías y Herramientas que sé usar
 
-!Lenguajes de programación: SQL, Python, C, C++ (https://img.shields.io/badge/-Lenguaje1-XXX?style=flat&logo=logo1&logoColor=white)
+!Lenguajes de programación: SQL, Python, C, C++ 
 
 
 
