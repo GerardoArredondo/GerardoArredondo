@@ -11,7 +11,7 @@ Actualmente estudio Ingeniería en Computación en la UNAM.
 
 ## 📫 Cómo contactarme
 
-- **LinkedIn:** (linkedin.com/in/gerardo-arredondo-66bb702b5)
+- **LinkedIn:** (https://www.linkedin.com/in/gerardo-arredondo-66bb702b5/)
 - **Twitter:** (https://x.com/Gerotota)
 
 ---
